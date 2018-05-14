@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jayma</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="gmail">Gmail</string>
+    <string name="connexion">Sign In</string>
+    <string name="inscription">Sign Up</string>
+
+</resources>
